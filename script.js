@@ -1,6 +1,3 @@
-// script.js
-
-// Variables to hold time values
 let startTime = null;
 let elapsedTime = 0;
 let timerInterval = null;
